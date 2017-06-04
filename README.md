@@ -9,14 +9,14 @@
 용빈버전 채우기
 
 #### pepper ultra light version. - hanwoong
-개인적으로 FreeCAD로 도면작업을 하기에 아직은 한계가 많다.
-최초 FreeCAD로 작업중, AutoCAD로 도면을 변경하였다.
-필요시 AUTOCAD LT / 1달버전 / 월68,750원을 추후 이용해볼 것.
+- 개인적으로 FreeCAD로 도면작업을 하기에 아직은 한계가 많다.
+- FreeCAD로 작업중 결국 AutoCAD로 도면을 변경하였다.
+- 준비물 : 로얄보드 4합2절 1장. 개퍼테이프(면테이프라서 접히는 부분에 사용시 내구성이 좋다.)
 
-![alt_preview](https://raw.githubusercontent.com/lazypic/pepper/master/cad/preview.png)
-![alt_screenshot](https://raw.githubusercontent.com/lazypic/pepper/master/cad/screenshot.png)
+![alt_preview_pepper_ultra_light](https://raw.githubusercontent.com/lazypic/pepper/master/cad/preview_pepper_ultra_light.png)
+![alt_screenshot_pepper_ultra_light](https://raw.githubusercontent.com/lazypic/pepper/master/cad/screenshot_pepper_ultra_light.png)
 
 #### 프로젝트에 활용한 유틸리티
 - https://client.autocad360.com : 웹용 dwg뷰어. 크롬으로 실행할것
-- https://www.autodesk.co.kr/products/autocad/free-trial : Autocad. win/mac 버전 30일간 사용가능.
+- https://www.autodesk.co.kr/products/autocad/free-trial : Autocad. win/mac 버전 30일간 사용가능. AutoCAD LT / 월 68,750원
 - https://www.freecadweb.org : 오픈소스CAD
