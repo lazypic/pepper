@@ -24,7 +24,7 @@
 ![alt_preview_pepper_ultra_light](https://raw.githubusercontent.com/lazypic/pepper/master/cad/preview_pepper_ultra_light.png)
 ![alt_screenshot_pepper_ultra_light](https://raw.githubusercontent.com/lazypic/pepper/master/cad/screenshot_pepper_ultra_light.png)
 
-#### Pepper Hood
+#### Pepper Hood( MacbookPro 13" )
 - 휴대성을 중요하게 생각하며 설계한 맥북프로 13인치 현장 모니터 후드입니다.
 - 태양아래에서 모니터컬러가 보이지 않기 때문에 제작되었습니다.
 - 맥북프로 특성상 모니터 상단부 좌우에 약 4센치 자석이 내장되어있는 점을 이용했습니다.(후드 탈부착에 이용됩니다.)
