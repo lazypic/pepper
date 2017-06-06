@@ -31,7 +31,7 @@
 - 알고있는 지인에 한하여 "베타버전 제공 + 수공제작비 + 재료비 = 1만원"
 - 베타버전을 사용하면서 업데이트될 부분이 있다면 Issue에 보정될 부분의 사진과 같이 남겨주세요. 다음 도면에 적용하겠습니다.
 
-![alt_preview_pepper_hood](https://raw.githubusercontent.com/lazypic/pepper/master/cad/preview_pepper_hood.png)
+![alt_preview_pepper_hood](https://raw.githubusercontent.com/lazypic/pepper/master/cad/preview_pepper_hood.jpg)
 ![alt_screenshot_pepper_hood](https://raw.githubusercontent.com/lazypic/pepper/master/cad/screenshot_pepper_hood.png)
 
 #### 프로젝트에 활용한 유틸리티
