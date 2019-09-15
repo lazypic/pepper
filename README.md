@@ -19,20 +19,6 @@
 ![alt_preview_pepper_ultra_light](https://raw.githubusercontent.com/lazypic/pepper/master/cad/preview_pepper_ultra_light.png)
 ![alt_screenshot_pepper_ultra_light](https://raw.githubusercontent.com/lazypic/pepper/master/cad/screenshot_pepper_ultra_light.png)
 
-#### Pepper Hood( MacbookPro 13" )
-- 휴대성을 중요하게 생각하며 설계한 맥북프로 13인치 현장 모니터 후드입니다.
-- On-set환경(태양아래)에서 모니터컬러가 보이지 않기 때문에 제작되었습니다.
-- 맥북프로 특성상 모니터 상단부 좌우에 약 4센치 자석이 내장되어있는 점을 이용했습니다.(후드 탈부착에 이용됩니다.)
-- 제작에 사용되는 종이가 매우 두껍기 때문에 칼질시 손을 조심하세요.
-- 준비물 : 칼, 칼판, 로얄보드 4합2절, 개퍼테이프, [판교]파로클립(소/19mm) 4개
-- 문구점 : [일산 주엽동 페이펄](https://www.google.co.kr/maps/place/페이펄문구센터+주엽지점/@37.6682435,126.7643637,15z/data=!4m5!3m4!1s0x0:0x9e9ea9640693357b!8m2!3d37.6682435!4d126.7643637) 
-- 만약 캐드파일(A2사이즈)을 뽑아서 보드지에 붙혀서 작업한다면 3M 77 스프레이접착제가 별도로 필요할것 같습니다.
-- 캐드파일 pdf는 /cad 폴더에 있습니다.
-- 베타버전을 사용하면서 업데이트될 부분이 있다면 Issue에 보정될 부분의 사진과 같이 남겨주세요. 다음 도면에 적용하겠습니다.
-
-![alt_preview_pepper_hood](https://raw.githubusercontent.com/lazypic/pepper/master/cad/preview_pepper_hood.jpg)
-![alt_screenshot_pepper_hood](https://raw.githubusercontent.com/lazypic/pepper/master/cad/screenshot_pepper_hood.png)
-
 #### 출력소
 - 출력 제본나라(태영프라자)
 - 이메일 : 0117990518@naver.com
