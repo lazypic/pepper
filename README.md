@@ -1,6 +1,6 @@
 # Pepper
-- 종이로 만드는 노트북 받침대 Goods
-- Release: ver13
+- 종이로 만드는 노트북 받침대
+- Release: version 13
 
 ### 프로젝트 목표
 - 장시간 노트북 시용 시 목 꺾임, 목디스크 예방
